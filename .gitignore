@@ -1,0 +1,11 @@
+__pycache__/
+
+*.json
+!settings.json
+!shortcuts.json
+
+*.png
+*.log
+*.db
+
+token.txt
